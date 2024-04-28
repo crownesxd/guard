@@ -1,0 +1,12 @@
+{
+  "MAIN_TOKEN": "",
+  "TOKENS": [""],
+  "GUILD_ID": "",
+  "MONGO_URL": "",
+
+  "GuardLog": "",
+  "Presence": "MODLOFF Video",
+
+  "SafeBots": [""],
+  "SafeUsers": []
+}
